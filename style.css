@@ -10,6 +10,7 @@ header{
      background-size: cover; 
      background-position: center;
      
+     
 }
 ul{
     float: right;
@@ -39,3 +40,11 @@ ul li a:hover {
     width: 150px;
     height: auto;
 } */
+.logo img{
+    height: 8dvh;
+    width: 8vh;
+}
+.logo img{
+   padding: 50px;
+    margin-left:30px ;
+}
